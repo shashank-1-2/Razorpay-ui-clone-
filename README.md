@@ -37,7 +37,7 @@ razorpay-clone/
 
 You can use either the CDN method or install Tailwind locally.
 
-### 📦 Option 2 : Setup Tailwind Locally (Advanced)
+### 📦 Option 1 : Setup Tailwind Locally (Advanced)
 # 1. Clone the repo
 git clone https://github.com/yourusername/razorpay-clone.git
 cd razorpay-clone
